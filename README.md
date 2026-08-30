@@ -14,3 +14,4 @@ Welcome! This repository serves as a central hub for my projects, experiments, a
 
 **Navigation**
 Feel free to explore the repository. As new projects are added, they will be organized into their own folders containing the necessary source code, datasets, and a breakdown of the methodology and results.
+The specific folder of the project also contains the Problem statement for your personal practise.
